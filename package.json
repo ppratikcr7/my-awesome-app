@@ -1,0 +1,14 @@
+{
+    "name": "my-awesome-app",
+    "version": "1.0.0",
+    "description": "Hello World in Node with Express",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
